@@ -1,5 +1,5 @@
 # Unveiling the Secrets of Network Traffic with Wireshark: A Hands-On Project Journey!
-Practicing by using a Powerful Network Protocol Analyzer used to capture and examine data packets.
+Practicing with a powerful network protocol analyzer to capture and analyze data packets.
 
 Tool: Wireshark
 
