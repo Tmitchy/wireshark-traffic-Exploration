@@ -11,7 +11,7 @@ Once captured, each packet can be inspected in detail—Wireshark breaks down th
 
 Using Wireshark taught me how data moves through a network and how different protocols interact. I learned to apply display filters, track communication between hosts, identify suspicious behavior (e.g., malware or scans), and understand packet structures. It's an essential tool for network troubleshooting, cybersecurity analysis, and understanding real-time data flows. 
 
-I have performed packet analysis on a few PCAP files and will upload the results of my analysis here
+I have performed packet analysis on a few PCAP files and will upload the results of my study here
 
 
 Security Concepts Involved: Packet Analysis, PROTOCOL Analyzer
