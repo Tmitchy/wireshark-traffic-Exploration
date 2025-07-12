@@ -1,4 +1,4 @@
-# wireshark-traffic-Exploration Projects
+# Wireshark-traffic-Exploration Projects
 Python-based TCP port scanner for learning basic network enumeration techniques
 
 Tool: Wireshark
