@@ -1,5 +1,5 @@
-# Wireshark-traffic-Exploration Projects
-Python-based TCP port scanner for learning basic network enumeration techniques
+# Unveiling the Secrets of Network Traffic with Wireshark: A Hands-On Project Journey!
+Practicing by using a Powerful Network Protocol Analyzer used to capture and examine data packets.
 
 Tool: Wireshark
 
