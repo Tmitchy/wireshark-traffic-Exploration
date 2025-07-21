@@ -1,7 +1,7 @@
 # 🕵️‍♂️ Unveiling the Secrets of Network Traffic with Wireshark: A Hands-On Project Journey!
 
 🔍 **Welcome to my packet analysis project!**  
-This repository showcases my practical exploration into the world of **network traffic analysis** using the industry-standard tool: **Wireshark**. Whether you're a fellow cybersecurity student, a networking enthusiast, or just curious—this project highlights how packets tell stories of what's happening under the hood of the internet.
+This repository showcases my practical exploration of **malware PCAP File samples** using the industry-standard tool: **Wireshark**. The project highlights how packets tell stories of what's happening under the hood of the internet.
 
 ---
 
