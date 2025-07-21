@@ -56,7 +56,7 @@ Inside this repository, you'll find:
 |-------------|-------------|
 | `pcap-analysis/` | 📂 Directory containing analyzed `.pcap` files and notes |
 | `screenshots/` | 🖼️ [Captures of Wireshark during packet inspection](https://github.com/Tmitchy/wireshark-traffic-Exploration/blob/main/Network%20Packet%20Analysis%20Report.docx) |
-| `filters.md` | 🧪 Useful Wireshark display filters I used |
+| `filters.md` | 🧪 [Useful Wireshark display filters I used](https://github.com/Tmitchy/wireshark-traffic-Exploration/blob/main/Network%20Packet%20Analysis%20Report.docx) |
 | `findings.md` | 📓 [Document of my observations and key learning moments](https://github.com/Tmitchy/wireshark-traffic-Exploration/blob/main/Network%20Packet%20Analysis%20Report.docx) |
 
 ---
