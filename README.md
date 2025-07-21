@@ -1,17 +1,93 @@
-# Unveiling the Secrets of Network Traffic with Wireshark: A Hands-On Project Journey!
-Practicing with a powerful network protocol analyzer to capture and analyze data packets.
+# 🕵️‍♂️ Unveiling the Secrets of Network Traffic with Wireshark: A Hands-On Project Journey!
 
-Tool: Wireshark
+🔍 **Welcome to my packet analysis project!**  
+This repository showcases my practical exploration into the world of **network traffic analysis** using the industry-standard tool: **Wireshark**. Whether you're a fellow cybersecurity student, a networking enthusiast, or just curious—this project highlights how packets tell stories of what's happening under the hood of the internet.
 
-Wireshark is a powerful network protocol analyzer used to capture and examine data packets traveling across a network. To use Wireshark, you start by selecting the network interface (e.g., Wi-Fi or Ethernet) and then begin capturing live traffic. Filters can be applied to focus on specific protocols (like HTTP, DNS, TCP) or IP addresses for easier analysis.
+---
 
-Once captured, each packet can be inspected in detail—Wireshark breaks down the data into layers such as Ethernet, IP, TCP/UDP, and application-level protocols. This allows users to identify issues like delays, packet loss, unauthorized connections, or even signs of an attack.
+## 🚀 Project Overview
 
+Wireshark is one of the most powerful tools for examining what’s going on in your network at a microscopic level. In this hands-on project, I practiced:
 
+- Capturing real-time network traffic 🌐
+- Applying filters to isolate specific protocols 🔎
+- Analyzing packet structures at multiple layers 📦
+- Identifying signs of unusual or malicious behavior 🧠
 
-Using Wireshark taught me how data moves through a network and how different protocols interact. I learned to apply display filters, track communication between hosts, identify suspicious behavior (e.g., malware or scans), and understand packet structures. It's an essential tool for network troubleshooting, cybersecurity analysis, and understanding real-time data flows. 
+---
 
-I have performed packet analysis on a few PCAP files and will upload the results of my study here
+## 🛠️ Tool Used: Wireshark
 
+🧰 **Wireshark** is a **network protocol analyzer** used to capture and examine packets traveling through a network. Here's what it allows you to do:
 
-Security Concepts Involved: Packet Analysis, PROTOCOL Analyzer
+- 📡 Select an active network interface (Wi-Fi, Ethernet, etc.)
+- ▶️ Start capturing live network traffic
+- 🧬 Apply display filters to narrow down analysis (e.g., `http`, `tcp.port == 80`, `ip.addr == 192.168.1.1`)
+- 🪄 Inspect individual packets across layers:
+  - Ethernet
+  - IP
+  - TCP/UDP
+  - Application-level protocols (HTTP, DNS, FTP, etc.)
+
+---
+
+## 🎯 What I Learned
+
+This project has taught me critical foundational skills in cybersecurity and network engineering:
+
+- ✅ How data flows across a network and how protocols interact  
+- 🔍 How to filter and follow conversations between devices  
+- 🕳️ How to detect anomalies like:
+  - Malicious payloads  
+  - Port scans  
+  - Unusual IP traffic patterns  
+- 🛠️ Real-world usage of Wireshark for:
+  - Network troubleshooting  
+  - Intrusion detection  
+  - Protocol reverse engineering  
+
+---
+
+## 📁 Project Files
+
+Inside this repository you'll find:
+
+| File/Folder | Description |
+|-------------|-------------|
+| `pcap-analysis/` | 📂 Directory containing analyzed `.pcap` files and notes |
+| `screenshots/` | 🖼️ Captures of Wireshark during packet inspection |
+| `filters.md` | 🧪 Useful Wireshark display filters I used |
+| `findings.md` | 📓 Document of my observations and key learning moments |
+
+---
+
+## 🧠 Security Concepts Involved
+
+- 🔐 **Packet Analysis**  
+- 📡 **Protocol Inspection (TCP/IP, DNS, HTTP, etc.)**  
+- 🧰 **Network Forensics**  
+- 🚨 **Threat Detection & Network Anomaly Identification**
+
+---
+
+## 📚 Resources I Used
+
+- [Wireshark User Guide](https://www.wireshark.org/docs/wsug_html_chunked/)
+- [Packetlife.net Cheat Sheets](https://packetlife.net/library/cheatsheets/)
+- TryHackMe: *Wireshark* and *Intro to Networking* rooms  
+- YouTube tutorials from [Chris Greer](https://www.youtube.com/@ChrisGreer)
+
+---
+
+## 🧪 Next Steps
+
+- 🔄 Analyze more complex `.pcap` files (including malware samples)
+- 🧱 Build lab environments with simulated attacks
+- 🛡️ Combine Wireshark analysis with IDS tools like **Snort** or **Zeek**
+
+---
+
+> “To master cybersecurity, you must learn to think like the packets.”  
+> — Me, after spending hours in Wireshark 😅
+
+---
