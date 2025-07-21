@@ -50,14 +50,14 @@ This project has taught me critical foundational skills in cybersecurity and net
 
 ## 📁 Project Files
 
-Inside this repository you'll find:
+Inside this repository, you'll find:
 
 | File/Folder | Description |
 |-------------|-------------|
 | `pcap-analysis/` | 📂 Directory containing analyzed `.pcap` files and notes |
-| `screenshots/` | 🖼️ Captures of Wireshark during packet inspection |
+| `screenshots/` | 🖼️ [Captures of Wireshark during packet inspection](https://github.com/Tmitchy/wireshark-traffic-Exploration/blob/main/Network%20Packet%20Analysis%20Report.docx) |
 | `filters.md` | 🧪 Useful Wireshark display filters I used |
-| `findings.md` | 📓 Document of my observations and key learning moments |
+| `findings.md` | 📓 [Document of my observations and key learning moments](https://github.com/Tmitchy/wireshark-traffic-Exploration/blob/main/Network%20Packet%20Analysis%20Report.docx) |
 
 ---
 
