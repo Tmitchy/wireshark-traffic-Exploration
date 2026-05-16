@@ -5,14 +5,14 @@ This repository showcases my practical exploration of **malware PCAP File sample
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 Wireshark is one of the most powerful tools for examining what’s going on in your network at a microscopic level. In this hands-on project, I practiced:
 
-- Capturing real-time network traffic 🌐
-- Applying filters to isolate specific protocols 🔎
-- Analyzing packet structures at multiple layers 📦
-- Identifying signs of unusual or malicious behavior 🧠
+- Capturing real-time network traffic 
+- Applying filters to isolate specific protocols 
+- Analyzing packet structures at multiple layers 
+- Identifying signs of unusual or malicious behavior 
 
 ---
 
@@ -20,10 +20,10 @@ Wireshark is one of the most powerful tools for examining what’s going on in y
 
 🧰 **Wireshark** is a **network protocol analyzer** used to capture and examine packets traveling through a network. Here's what it allows you to do:
 
-- 📡 Select an active network interface (Wi-Fi, Ethernet, etc.)
-- ▶️ Start capturing live network traffic
-- 🧬 Apply display filters to narrow down analysis (e.g., `http`, `tcp.port == 80`, `ip.addr == 192.168.1.1`)
-- 🪄 Inspect individual packets across layers:
+-  Select an active network interface (Wi-Fi, Ethernet, etc.)
+-  Start capturing live network traffic
+-  Apply display filters to narrow down analysis (e.g., `http`, `tcp.port == 80`, `ip.addr == 192.168.1.1`)
+-  Inspect individual packets across layers:
   - Ethernet
   - IP
   - TCP/UDP
@@ -35,20 +35,20 @@ Wireshark is one of the most powerful tools for examining what’s going on in y
 
 This project has taught me critical foundational skills in cybersecurity and network engineering:
 
-- ✅ How data flows across a network and how protocols interact  
-- 🔍 How to filter and follow conversations between devices  
-- 🕳️ How to detect anomalies like:
+- How data flows across a network and how protocols interact  
+- How to filter and follow conversations between devices  
+- How to detect anomalies like:
   - Malicious payloads  
   - Port scans  
   - Unusual IP traffic patterns  
-- 🛠️ Real-world usage of Wireshark for:
+- Real-world usage of Wireshark for:
   - Network troubleshooting  
   - Intrusion detection  
   - Protocol reverse engineering  
 
 ---
 
-## 📁 Project Files
+## Project Files
 
 Inside this repository, you'll find:
 
@@ -61,16 +61,16 @@ Inside this repository, you'll find:
 
 ---
 
-## 🧠 Security Concepts Involved
+## Security Concepts Involved
 
-- 🔐 **Packet Analysis**  
-- 📡 **Protocol Inspection (TCP/IP, DNS, HTTP, etc.)**  
-- 🧰 **Network Forensics**  
-- 🚨 **Threat Detection & Network Anomaly Identification**
+- **Packet Analysis**  
+- **Protocol Inspection (TCP/IP, DNS, HTTP, etc.)**  
+- **Network Forensics**  
+- **Threat Detection & Network Anomaly Identification**
 
 ---
 
-## 📚 Resources I Used
+## Resources Used
 
 - [Wireshark User Guide](https://www.wireshark.org/docs/wsug_html_chunked/)
 - [Packetlife.net Cheat Sheets](https://packetlife.net/library/cheatsheets/)
@@ -79,11 +79,11 @@ Inside this repository, you'll find:
 
 ---
 
-## 🧪 Next Steps
+## Next Steps
 
-- 🔄 Analyze more complex `.pcap` files (including malware samples)
-- 🧱 Build lab environments with simulated attacks
-- 🛡️ Combine Wireshark analysis with IDS tools like **Snort** or **Zeek**
+- Analyze more complex `.pcap` files (including malware samples)
+- Build lab environments with simulated attacks
+- Combine Wireshark analysis with IDS tools like **Snort** or **Zeek**
 
 ---
 
