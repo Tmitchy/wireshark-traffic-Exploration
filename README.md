@@ -67,7 +67,7 @@ Inside this repository, you'll find:
 
 | File/Folder | Description |
 |-------------|-------------|
-| `pcap-files/` | 📂 Directory containing`.pcap` files|
+| `pcap-files/` | 📂 Directory containing`.pcap` files,[forest park school.pcap](|
 | `.docx` | 🧪 [A report detailing an overview of the analysis conducted on the network traffic from both `.pcap` files using Wireshark ](https://github.com/Tmitchy/wireshark-traffic-Exploration/blob/main/Network%20Packet%20Analysis%20Report.docx) |
 
 
