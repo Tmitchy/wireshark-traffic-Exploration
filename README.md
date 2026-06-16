@@ -9,14 +9,16 @@ This repository showcases my practical exploration of **malware PCAP File sample
 
 Wireshark is one of the most powerful tools for examining what’s going on in your network at a microscopic level. In this hands-on project, I practiced:
 
-- Capturing real-time network traffic 
+- I analyzed two captured real-time network traffic 
 - Applying filters to isolate specific protocols 
 - Analyzing packet structures at multiple layers 
 - Identifying signs of unusual or malicious behavior 
 
 ---
 
-## 🛠️ Tool Used: Wireshark
+## 🛠️ Tool Used: 
+ 
+### Wireshark
 
 🧰 **Wireshark** is a **network protocol analyzer** used to capture and examine packets traveling through a network. Here's what it allows you to do:
 
@@ -28,6 +30,17 @@ Wireshark is one of the most powerful tools for examining what’s going on in y
   - IP
   - TCP/UDP
   - Application-level protocols (HTTP, DNS, FTP, etc.)
+
+### VirusTotal
+
+🧰 **VirusTotal** is an **online threat intelligence and malware analysis platform** used to scan files, URLs, IP addresses, domains, and hashes against multiple security engines. Here's what it allows you to do:
+
+-  Upload files for malware analysis
+-  Scan URLs to check for phishing, malware, or malicious content
+-  Search using file hashes (MD5, SHA1, SHA256)
+-  Investigate IP addresses and domains for malicious activity
+-  view detections from dozens of antivirus vendors in one place
+-  Analyze relationships between files, domains, IPs, and URLs
 
 ---
 
@@ -54,10 +67,9 @@ Inside this repository, you'll find:
 
 | File/Folder | Description |
 |-------------|-------------|
-| `pcap-analysis/` | 📂 Directory containing analyzed `.pcap` files and notes |
-| `screenshots/` | 🖼️ [Captures of Wireshark during packet inspection](https://github.com/Tmitchy/wireshark-traffic-Exploration/blob/main/Network%20Packet%20Analysis%20Report.docx) |
-| `filters.md` | 🧪 [Useful Wireshark display filters I used](https://github.com/Tmitchy/wireshark-traffic-Exploration/blob/main/Network%20Packet%20Analysis%20Report.docx) |
-| `findings.md` | 📓 [Document of my observations and key learning moments](https://github.com/Tmitchy/wireshark-traffic-Exploration/blob/main/Network%20Packet%20Analysis%20Report.docx) |
+| `pcap-files/` | 📂 Directory containing`.pcap` files|
+| `.docx` | 🧪 [A report detailing an overview of the analysis conducted on the network traffic from both `.pcap` files using Wireshark ](https://github.com/Tmitchy/wireshark-traffic-Exploration/blob/main/Network%20Packet%20Analysis%20Report.docx) |
+
 
 ---
 
@@ -78,16 +90,10 @@ Inside this repository, you'll find:
 - YouTube tutorials from [Chris Greer](https://www.youtube.com/@ChrisGreer)
 
 ---
+# Conclusion
 
-## Next Steps
+This project has established a foundation for understanding the critical importance of implementing security measures against cyberattacks. It emphasizes the risks associated with not securing our network and highlights both the technical and non-technical aspects of security. The project also explored several open-source tools, such as Wireshark, Nmap, and Linux VM, which are utilized for scanning vulnerabilities and detecting malicious content.
+While the traffic associated with "holiday_agency_evidence.zip" does not indicate any immediate security threats, the traffic related to the Forest Park School PCAP reveals security issues that were identified during the analysis. Additionally, addressing the recent security breach and preparing for potential future threats requires a comprehensive strategy that combines advanced technical defenses with robust governance, policies, and employee awareness.
+Only through this multi-layered approach can Caribex build resilience against evolving cyber threats.
 
-- Analyze more complex `.pcap` files (including malware samples)
-- Build lab environments with simulated attacks
-- Combine Wireshark analysis with IDS tools like **Snort** or **Zeek**
 
----
-
-> “To master cybersecurity, you must learn to think like the packets.”  
-> - Me, after spending hours in Wireshark 😅
-
----
