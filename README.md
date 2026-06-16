@@ -91,7 +91,7 @@ Inside this repository, you'll find:
 # Conclusion
 
 This project has established a foundation for understanding the critical importance of implementing security measures against cyberattacks. It emphasizes the risks associated with not securing our network and highlights both the technical and non-technical aspects of security. The project also explored several open-source tools, such as Wireshark, Nmap, and Linux VM, which are utilized for scanning vulnerabilities and detecting malicious content.
-While the traffic associated with "holiday_agency_evidence.zip" does not indicate any immediate security threats, the traffic related to the Forest Park School PCAP reveals security issues that were identified during the analysis. Additionally, addressing the recent security breach and preparing for potential future threats requires a comprehensive strategy that combines advanced technical defenses with robust governance, policies, and employee awareness.
+While the traffic associated with `holiday_agency_evidence.pcap.zip` does not indicate any immediate security threats, the traffic related to the `Forest Park School.pcap` reveals security issues that were identified during the analysis. Additionally, addressing the recent security breach and preparing for potential future threats requires a comprehensive strategy that combines advanced technical defenses with robust governance, policies, and employee awareness.
 Only through this multi-layered approach can Caribex build resilience against evolving cyber threats.
 
 
