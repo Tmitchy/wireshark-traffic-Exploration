@@ -84,9 +84,7 @@ Inside this repository, you'll find:
 
 ## Resources Used
 
-- [Wireshark User Guide](https://www.wireshark.org/docs/wsug_html_chunked/)
-- [Packetlife.net Cheat Sheets](https://packetlife.net/library/cheatsheets/)
-- TryHackMe: *Wireshark* and *Intro to Networking* rooms  
+- [Packetlife.net Cheat Sheets](https://packetlife.net/library/cheatsheets/)  
 - YouTube tutorials from [Chris Greer](https://www.youtube.com/@ChrisGreer)
 
 ---
