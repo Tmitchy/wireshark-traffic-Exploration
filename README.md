@@ -88,6 +88,6 @@ Inside this repository, you'll find:
 ---
 
 > “To master cybersecurity, you must learn to think like the packets.”  
-> — Me, after spending hours in Wireshark 😅
+> - Me, after spending hours in Wireshark 😅
 
 ---
