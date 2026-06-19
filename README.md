@@ -1,4 +1,6 @@
 # 🕵️‍♂️ Unveiling the Secrets of Network Traffic with Wireshark: A Hands-On Project Journey!
+![Wireshark](https://img.shields.io/badge/Wire-shark-blue)
+![VirusTotal](https://img.shields.io/badge/Virus-Total-red)
 
 🔍 **Welcome to my packet analysis project!**  
 This repository showcases my practical exploration of **malware PCAP File samples** using the industry-standard tool: **Wireshark**. The project highlights how packets tell stories of what's happening under the hood of the internet.
